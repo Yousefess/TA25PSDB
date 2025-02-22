@@ -1,6 +1,6 @@
 # Database
 
-![Python](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Yousefess/TA25PSDB)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Yousefess/TA25PSDB)
