@@ -124,7 +124,9 @@ SELECT * FROM survey_points;
 Ask students to **copy a GIS-related table** and make modifications.
 
 1️⃣ **Copy** the `land_parcels` table but **add a new column `land_use_type`**.
+
 2️⃣ **Copy only** the data of parcels larger than 10 acres.
+
 3️⃣ **Copy the `gps_points` table**, keeping only points **above 500m elevation**.
 
 ```sql

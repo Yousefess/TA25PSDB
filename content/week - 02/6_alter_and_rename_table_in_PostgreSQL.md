@@ -154,9 +154,13 @@ ALTER TABLE land_survey RENAME TO land_survey_records;
 # **💡 Exercises**
 
 ✅ **Task 1:** Create a table `gis_data` with columns: `id (SERIAL PRIMARY KEY)`, `area_name (VARCHAR)`, `population (INT)`.
+
 ✅ **Task 2:** Add a new column `land_type (VARCHAR)` to `gis_data`.
+
 ✅ **Task 3:** Rename `land_type` to `land_category`.
+
 ✅ **Task 4:** Change the `population` column type to `NUMERIC(10,2)`.
+
 ✅ **Task 5:** Rename the `gis_data` table to `geospatial_data`.
 
 ---

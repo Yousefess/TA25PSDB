@@ -107,9 +107,13 @@ DROP DATABASE land_survey;
 **Scenario:** You are working on a **surveying project** to map different land use zones.
 
 1️⃣ Create a database called **"urban_survey"**
+
 2️⃣ Assign it to an owner called **"gis_specialist"**
+
 3️⃣ Verify the database exists using `\l`
+
 4️⃣ Switch to the database using `\c urban_survey`
+
 5️⃣ Drop the database **"urban_survey"** (⚠️ be careful!)
 
 ---

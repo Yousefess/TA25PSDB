@@ -106,8 +106,11 @@ DROP DATABASE my_database;
 # **💡 Exercises**
 
 ✅ **Task 1:** Create a database called `survey_db`.
+
 ✅ **Task 2:** Create a table `survey_points` inside `survey_db` with columns: `point_id (SERIAL PRIMARY KEY)`, `latitude (NUMERIC)`, `longitude (NUMERIC)`.
+
 ✅ **Task 3:** Drop the `survey_points` table using `IF EXISTS`.
+
 ✅ **Task 4:** Drop the `survey_db` database (make sure to switch to another database first).
 
 ---

@@ -120,7 +120,9 @@ CREATE TEMP TABLE temp_survey_points (
 ## **📌 Summary**
 
 ✅ **`CREATE TABLE`** → Define tables with constraints
+
 ✅ **`CREATE TABLE AS`** → Copy data from another table
+
 ✅ **`CREATE TEMP TABLE`** → Store session-based temporary data
 
 ---
